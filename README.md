@@ -65,42 +65,42 @@
 <section class="team-container">
     <!-- Team Member 1 -->
     <div class="team-member">
-        <img src="images/Снимок экрана 2025-04-25 102406.png" alt="Amir Khakimov">
+        <img src="amir_photo.png" alt="Amir Khakimov">
         <h3>Amir Khakimov</h3>
         <p>Executive Director, Reservoir Simulation Directorate</p>
     </div>
 
     <!-- Team Member 2 -->
     <div class="team-member">
-        <img src="images/Снимок экрана 2025-04-25 102437.png" alt="Aruzhan Oralhanova">
+        <img src="aru_photo.png" alt="Aruzhan Oralhanova">
         <h3>Aruzhan Oralhanova</h3>
         <p>Geology & Static Reservoir Directorate</p>
     </div>
 
     <!-- Team Member 3 -->
     <div class="team-member">
-        <img src="images/Снимок экрана 2025-04-25 102505.png" alt="Diana Nurkassova">
+        <img src="diana_photo.png" alt="Diana Nurkassova">
         <h3>Diana Nurkassova</h3>
         <p>Petrophysics & Production Engineering Directorate</p>
     </div>
 
     <!-- Team Member 4 -->
     <div class="team-member">
-        <img src="images/Снимок экрана 2025-04-25 102534.png" alt="Almat Tuzelbay">
+        <img src="almat_photo.png" alt="Almat Tuzelbay">
         <h3>Almat Tuzelbay</h3>
         <p>Reservoir Engineering Directorate</p>
     </div>
 
     <!-- Team Member 5 -->
     <div class="team-member">
-        <img src="images/Снимок экрана 2025-04-25 102558.png" alt="Aray Serikkali">
+        <img src="aray_photo.png" alt="Aray Serikkali">
         <h3>Aray Serikkali</h3>
         <p>Economy & HSE Department Directorate</p>
     </div>
 
     <!-- Team Member 6 -->
     <div class="team-member">
-        <img src="images/833335d4-7d53-4da5-98a5-f65c7efaa29d.png" alt="Adil Serik">
+        <img src="adil_photo.png" alt="Adil Serik">
         <h3>Adil Serik</h3>
         <p>Drilling & Completion Engineering and Facilities Engineering Directorate</p>
     </div>
