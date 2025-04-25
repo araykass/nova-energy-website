@@ -68,42 +68,42 @@
     <div class="team-member">
         <img src="file-VFFnihY7qJwrqhMz2Nz5aX" alt="Amir Khakimov">
         <h3>Amir Khakimov</h3>
-        <p>Reservoir Simulation Engineer</p>
+        <p>Executive Director, Reservoir Simulation  Directorate</p>
     </div>
 
     <!-- Team Member 2 -->
     <div class="team-member">
         <img src="file-LfsAhCDvGMwMi8CbWTxJki" alt="Aruzhan Oralhanova">
         <h3>Aruzhan Oralhanova</h3>
-        <p>Geologist, Static Reservoir Modeler</p>
+        <p>Geology & Static Reservoir  Directorate</p>
     </div>
 
     <!-- Team Member 3 -->
     <div class="team-member">
         <img src="path-to-image" alt="Diana Nurkassova">
         <h3>Diana Nurkassova</h3>
-        <p>Petrophysicist, Production Engineer</p>
+        <p>Petrophysics $ Production Engineering  Directorate</p>
     </div>
 
     <!-- Team Member 4 -->
     <div class="team-member">
         <img src="path-to-image" alt="Almat Tuzelbay">
         <h3>Almat Tuzelbay</h3>
-        <p>Reservoir Engineer</p>
+        <p>Reservoir Engineering  Directorate</p>
     </div>
 
     <!-- Team Member 5 -->
     <div class="team-member">
         <img src="path-to-image" alt="Aray Serikkali">
         <h3>Aray Serikkali</h3>
-        <p>Economist, HSE Engineer</p>
+        <p>Economy & HSE Department Directorate</p>
     </div>
 
     <!-- Team Member 6 -->
     <div class="team-member">
         <img src="path-to-image" alt="Adil Serik">
         <h3>Adil Serik</h3>
-        <p>Drilling & Completion Engineer, Facilities Engineer</p>
+        <p>Drilling & Completion Engineering and Facilities Engineering Directorate</p>
     </div>
 </section>
 
