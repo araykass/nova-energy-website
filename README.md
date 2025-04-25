@@ -1,4 +1,3 @@
-# nova-energy-website
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -58,7 +57,7 @@
 <body>
 
 <header>
-    <img src="file_000000004070620abcc51b8e4caf8df4" alt="Nova Energy Logo"> <!-- Logo added here -->
+    <img src="images/Снимок экрана 2025-04-25 102331.png" alt="Nova Energy Logo"> <!-- Logo added here -->
     <h1>Nova Energy</h1>
     <p>Your trusted partner in the oil and gas industry</p>
 </header>
@@ -66,42 +65,42 @@
 <section class="team-container">
     <!-- Team Member 1 -->
     <div class="team-member">
-        <img src="file-VFFnihY7qJwrqhMz2Nz5aX" alt="Amir Khakimov">
+        <img src="images/Снимок экрана 2025-04-25 102406.png" alt="Amir Khakimov">
         <h3>Amir Khakimov</h3>
-        <p>Executive Director, Reservoir Simulation  Directorate</p>
+        <p>Executive Director, Reservoir Simulation Directorate</p>
     </div>
 
     <!-- Team Member 2 -->
     <div class="team-member">
-        <img src="file-LfsAhCDvGMwMi8CbWTxJki" alt="Aruzhan Oralhanova">
+        <img src="images/Снимок экрана 2025-04-25 102437.png" alt="Aruzhan Oralhanova">
         <h3>Aruzhan Oralhanova</h3>
-        <p>Geology & Static Reservoir  Directorate</p>
+        <p>Geology & Static Reservoir Directorate</p>
     </div>
 
     <!-- Team Member 3 -->
     <div class="team-member">
-        <img src="path-to-image" alt="Diana Nurkassova">
+        <img src="images/Снимок экрана 2025-04-25 102505.png" alt="Diana Nurkassova">
         <h3>Diana Nurkassova</h3>
-        <p>Petrophysics $ Production Engineering  Directorate</p>
+        <p>Petrophysics & Production Engineering Directorate</p>
     </div>
 
     <!-- Team Member 4 -->
     <div class="team-member">
-        <img src="path-to-image" alt="Almat Tuzelbay">
+        <img src="images/Снимок экрана 2025-04-25 102534.png" alt="Almat Tuzelbay">
         <h3>Almat Tuzelbay</h3>
-        <p>Reservoir Engineering  Directorate</p>
+        <p>Reservoir Engineering Directorate</p>
     </div>
 
     <!-- Team Member 5 -->
     <div class="team-member">
-        <img src="path-to-image" alt="Aray Serikkali">
+        <img src="images/Снимок экрана 2025-04-25 102558.png" alt="Aray Serikkali">
         <h3>Aray Serikkali</h3>
         <p>Economy & HSE Department Directorate</p>
     </div>
 
     <!-- Team Member 6 -->
     <div class="team-member">
-        <img src="path-to-image" alt="Adil Serik">
+        <img src="images/833335d4-7d53-4da5-98a5-f65c7efaa29d.png" alt="Adil Serik">
         <h3>Adil Serik</h3>
         <p>Drilling & Completion Engineering and Facilities Engineering Directorate</p>
     </div>
