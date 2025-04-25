@@ -1,3 +1,13 @@
+nova-energy-website/
+│
+├── index.html
+└── images/
+    ├── logo.png (your Nova Energy logo)
+    ├── Amir_Khakimov.jpg (team member photo)
+    ├── Aruzhan_Oralhanova.jpg (team member photo)
+    └── other team images
+    <img src="images/logo.png" alt="Nova Energy Logo">
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
