@@ -1,13 +1,3 @@
-nova-energy-website/
-│
-├── index.html
-└── images/
-    ├── logo.png (your Nova Energy logo)
-    ├── Amir_Khakimov.jpg (team member photo)
-    ├── Aruzhan_Oralhanova.jpg (team member photo)
-    └── other team images
-    <img src="images/logo.png" alt="Nova Energy Logo">
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -67,7 +57,7 @@ nova-energy-website/
 <body>
 
 <header>
-    <img src="images/Снимок экрана 2025-04-25 102331.png" alt="Nova Energy Logo"> <!-- Logo added here -->
+    <img src="https://assets.onecompiler.app/43fufdkec/43fufcnc9/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-25%20110622.png" alt="Nova Energy Logo"> <!-- Logo added here -->
     <h1>Nova Energy</h1>
     <p>Your trusted partner in the oil and gas industry</p>
 </header>
@@ -75,42 +65,42 @@ nova-energy-website/
 <section class="team-container">
     <!-- Team Member 1 -->
     <div class="team-member">
-        <img src="amir_photo.png" alt="Amir Khakimov">
+        <img src="amir_photo.jpg" alt="Amir Khakimov">
         <h3>Amir Khakimov</h3>
-        <p>Executive Director, Reservoir Simulation Directorate</p>
+        <p>Managing Director, Reservoir Simulation Directorate</p>
     </div>
-
+  <!-- Team Member 5 -->
+    <div class="team-member">
+        <img src="aray_photo.jpg" alt="Aray Serikkali">
+        <h3>Aray Serikkali</h3>
+        <p> Deputy General Director, Economy & HSE Department Directorate</p>
+    </div>
     <!-- Team Member 2 -->
     <div class="team-member">
-        <img src="aru_photo.png" alt="Aruzhan Oralhanova">
+        <img src="aru_photo.jpg" alt="Aruzhan Oralhanova">
         <h3>Aruzhan Oralhanova</h3>
         <p>Geology & Static Reservoir Directorate</p>
     </div>
 
     <!-- Team Member 3 -->
     <div class="team-member">
-        <img src="diana_photo.png" alt="Diana Nurkassova">
+        <img src="diana_photo.jpg" alt="Diana Nurkassova">
         <h3>Diana Nurkassova</h3>
         <p>Petrophysics & Production Engineering Directorate</p>
     </div>
 
     <!-- Team Member 4 -->
     <div class="team-member">
-        <img src="almat_photo.png" alt="Almat Tuzelbay">
+        <img src="almat_photo.jpg" alt="Almat Tuzelbay">
         <h3>Almat Tuzelbay</h3>
         <p>Reservoir Engineering Directorate</p>
     </div>
 
-    <!-- Team Member 5 -->
-    <div class="team-member">
-        <img src="aray_photo.png" alt="Aray Serikkali">
-        <h3>Aray Serikkali</h3>
-        <p>Economy & HSE Department Directorate</p>
-    </div>
+
 
     <!-- Team Member 6 -->
     <div class="team-member">
-        <img src="adil_photo.png" alt="Adil Serik">
+        <img src="adil_photo.jpg" alt="Adil Serik">
         <h3>Adil Serik</h3>
         <p>Drilling & Completion Engineering and Facilities Engineering Directorate</p>
     </div>
